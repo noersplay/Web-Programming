@@ -31,7 +31,7 @@
 </nav>
 <div class="container mt-4">
 <div class="container">
-<h2>Coming <b>Soon</b></h2>
+    <h2>Coming <b>Soon</b></h2>
 </div>
 </div>
 <script src="https://code.jquery-3.2.1.slim.min.js"></script>
